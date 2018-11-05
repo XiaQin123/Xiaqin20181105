@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Choujiang">
+        <attr name="mainColor" format="color"/>
+        <attr name="TypeColor" format="color"/>
+        <attr name="Type1Color" format="color"/>
+        <attr name="Type2Color" format="color"/>
+        <attr name="Type3Color" format="color"/>
+    </declare-styleable>
+</resources>
